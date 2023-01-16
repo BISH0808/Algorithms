@@ -1,4 +1,5 @@
 Here I collect useful notes about algorithms.
+
 **Algorithms now:**
 * Linear search
  
