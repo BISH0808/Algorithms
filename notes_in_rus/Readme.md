@@ -27,6 +27,7 @@
 
 # В алгоритмах важно:
 - наращивать коллекцию  «бесплатных примитивов»
+- проверять сложность алгоритмов (algorithm complexity)
 
 Источник: Tim Roughgarden, Algorithms Illuminated 
 
