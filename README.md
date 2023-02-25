@@ -5,7 +5,7 @@ This repository contains the following  Algorithms and notes:
 | Number        | Name                             | Description                                                   |  Lanuage         |  Online Notebook | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
 |  1            |       Linear search                |  Linear search Algorithm exploration                        | English          | [My Notebook](https://colab.research.google.com/github/BISH0808/Algorithms/blob/main/Linear_Search.ipynb)
-|  2           |       Algorithmic Complexity        |  Algorithmic Complexity    exploration                      | English          | [My Notebook](https://github.com/BISH0808/Algorithms/tree/main/Algorithmic%20Complexity%20)
+|  2           |       Algorithmic Complexity        |  Algorithmic Complexity    exploration                      | English          | [Notes](https://github.com/BISH0808/Algorithms/tree/main/Algorithmic%20Complexity%20)
 
 
 
