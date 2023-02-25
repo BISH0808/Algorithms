@@ -24,6 +24,6 @@ These videos are recommended for learning algorithms:
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Reference       | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
-|  1            |      Video by UlbiTV             |  Everything about algorithms and Data Structure               | English          | [Video by UlbiTV](https://www.youtube.com/watch?v=NErrGZ64OdE&list=PLdrkFH5HIVuAJvRhkOs-Mce6MoolrHSUm&index=4&t=3s) (in Russian)
+|  1            |      Video by UlbiTV             |  Everything about algorithms and Data Structure               | Russian          | [Video by UlbiTV](https://www.youtube.com/watch?v=NErrGZ64OdE&list=PLdrkFH5HIVuAJvRhkOs-Mce6MoolrHSUm&index=4&t=3s)
 
 
