@@ -1,12 +1,21 @@
 Here I collect useful notes about algorithms.
 
-**Algorithms now:**
-* Linear search
+This repository contains the following  notes, problems and solutions.
+
+| Number        | Name                             | Description                                                   |  Lanuage         |  Online Notebook | 
+| ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
+|  1            |       Linear search                |  Linear search Algorithm exploration                        | English          | [My Notebook](https://colab.research.google.com/github/BISH0808/Algorithms/blob/main/Linear_Search.ipynb)
+
+*
  
+ These books are recommended for learning algorithms:
  
+| Number        | Name                                                                 | Description                               |  Lanuage         |  
+| ------------- |:--------------------------------------------------------------------:|:-----------------------------------------:|:----------------:|
+|  1            |    Algorithms Illuminated Part 1: The Basics Tim Roughgarden         |  Algorithms exploration                    | English/Russia  | 
  
-These books are recommended for learning algorithms:
-1) Algorithms Illuminated Part 1: The Basics Tim Roughgarden
+
+1) 
 
 These videos are recommended for learning algorithms:
 
