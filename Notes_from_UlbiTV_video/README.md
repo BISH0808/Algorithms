@@ -3,5 +3,5 @@
 | Number        | Name                             | Description                                                   |  Lanuage         |  Online Notebook | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
 |  1            |       Plan                |  Plan                     | Russian       | [My Notebook](https://colab.research.google.com/github/BISH0808/Algorithms/blob/main/Notes_from_UlbiTV_video/Plan.ipynb)
-|  2           |       Introduction and Complexity        |  Introduction and Complexity                       | Russian       | [Notes](https://colab.research.google.com/drive/1OmeFxaKt-RNNAOjH0W_ukxTgJ0QJAgfn#scrollTo=sz3bAXlMTyTk)
+|  2           |       Introduction and Complexity        |  Introduction and Complexity                       | Russian       | [My Notebook](https://colab.research.google.com/drive/1OmeFxaKt-RNNAOjH0W_ukxTgJ0QJAgfn#scrollTo=sz3bAXlMTyTk)
 
