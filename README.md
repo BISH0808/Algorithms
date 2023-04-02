@@ -4,8 +4,9 @@ This repository contains the following  Algorithms and notes:
 
 | Number        | Name                             | Description                                                   |  Lanuage         |  Online Notebook | 
 | ------------- |:--------------------------------:|:-------------------------------------------------------------:|:----------------:|-----------------:|
-|  1            |       Linear search                |  Linear search Algorithm exploration                        | English          | [My Notebook](https://colab.research.google.com/github/BISH0808/Algorithms/blob/main/Linear_Search.ipynb)
-|  2           |       Algorithmic Complexity        |  Algorithmic Complexity    exploration                      | English          | [Notes](https://github.com/BISH0808/Algorithms/tree/main/Algorithmic%20Complexity%20)
+|  1            |      Notes by UlbiTV               |  very good notes about algorithms                       | Russian         | [My Folder](https://github.com/BISH0808/Algorithms/tree/main/Notes_from_UlbiTV_video)
+|  2            |       Linear search                |  Linear search Algorithm exploration                        | English          | [My Notebook](https://colab.research.google.com/github/BISH0808/Algorithms/blob/main/Linear_Search.ipynb)
+|  3           |       Algorithmic Complexity        |  Algorithmic Complexity    exploration                      | English          | [Notes](https://github.com/BISH0808/Algorithms/tree/main/Algorithmic%20Complexity%20)
 
 
 
