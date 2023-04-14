@@ -8,4 +8,4 @@
 |  4          |       Binary search        |  Binary  search                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1T53eR84OKIKn1xv4IejU5ncGEMbB8Vfe#scrollTo=U8y0SeS-aGC1)
 |  5          |       Selection Sort        |  Selection Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1fgS2KXadh6NwbQnVKRbNrjyyiopXAhUE#scrollTo=o_mbMlUOgiit)
 |  6          |       Bubble Sort        |  Bubble Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1yGpRiXrxBDUgoxw5Dbi_bolu3hFGRZSJ#scrollTo=WsuSS_nL-DNl)
-
+|  7          |       Recursion        |  Recursion                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1n53HuyRqA-uKMwYSp2jNIxSt6PKIO6AZ#scrollTo=5v5j4izjY8DL)
