@@ -9,3 +9,4 @@
 |  5          |       Selection Sort        |  Selection Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1fgS2KXadh6NwbQnVKRbNrjyyiopXAhUE#scrollTo=o_mbMlUOgiit)
 |  6          |       Bubble Sort        |  Bubble Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1yGpRiXrxBDUgoxw5Dbi_bolu3hFGRZSJ#scrollTo=WsuSS_nL-DNl)
 |  7          |       Recursion        |  Recursion                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1n53HuyRqA-uKMwYSp2jNIxSt6PKIO6AZ#scrollTo=5v5j4izjY8DL)
+|  8         |       Quick Sort        |  Quick Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1rtXPxQIY-Is5VzYkw-OvHxao9LqUPrQr#scrollTo=z3hyF8a5EOx9)
