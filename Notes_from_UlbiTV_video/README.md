@@ -12,6 +12,7 @@
 |  8         |       Quick Sort        |  Quick Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1rtXPxQIY-Is5VzYkw-OvHxao9LqUPrQr#scrollTo=z3hyF8a5EOx9)
 |  9         |       Poisk v shirinu       |   Poisk v shirinu                   | Russian       | [My Notebook](https://colab.research.google.com/drive/14p2X8eyxQGClEgI0c2kJh-YdZPIM9_S5#scrollTo=xFKxmMnzsrZ1)
 |  10         |       Algoritm Dijkstri       |   Algoritm Dijkstri                   | Russian       | [My Notebook](https://colab.research.google.com/drive/1CFSimWfPbBRWghI1-ivaXx-53pD1ilvA#scrollTo=eNXr-2yHvlPx)
+|  11        |       Сash       |   Cash algoritms                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1iZ4x8iVOluz_0jJ9bN2f0OHsPGfB5XT7#scrollTo=vzKVsAglkXnd)
 
 
 
