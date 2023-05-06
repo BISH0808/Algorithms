@@ -11,8 +11,9 @@
 |  7          |       Recursion        |  Recursion                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1n53HuyRqA-uKMwYSp2jNIxSt6PKIO6AZ#scrollTo=5v5j4izjY8DL)
 |  8         |       Quick Sort        |  Quick Sort                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1rtXPxQIY-Is5VzYkw-OvHxao9LqUPrQr#scrollTo=z3hyF8a5EOx9)
 |  9         |       Poisk v shirinu       |   Poisk v shirinu                   | Russian       | [My Notebook](https://colab.research.google.com/drive/14p2X8eyxQGClEgI0c2kJh-YdZPIM9_S5#scrollTo=xFKxmMnzsrZ1)
-|  10         |       Algoritm Dijkstri       |   Algoritm Dijkstri                   | Russian       | [My Notebook](https://colab.research.google.com/drive/1CFSimWfPbBRWghI1-ivaXx-53pD1ilvA#scrollTo=eNXr-2yHvlPx)
-|  11        |       Сash       |   Cash algoritms                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1iZ4x8iVOluz_0jJ9bN2f0OHsPGfB5XT7#scrollTo=vzKVsAglkXnd)
+|  10         |       Algoritm Dijkstri       |   Algorithm Dijkstri                   | Russian       | [My Notebook](https://colab.research.google.com/drive/1CFSimWfPbBRWghI1-ivaXx-53pD1ilvA#scrollTo=eNXr-2yHvlPx)
+|  11        |       Tree algs      |  Tree algs                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1nGWOl7mcvyNc2duhIEtfI4klqgVneu1D)
+|  12        |       Сash       |   Cash algs                 | Russian       | [My Notebook](https://colab.research.google.com/drive/1iZ4x8iVOluz_0jJ9bN2f0OHsPGfB5XT7#scrollTo=vzKVsAglkXnd)
 
 
 
