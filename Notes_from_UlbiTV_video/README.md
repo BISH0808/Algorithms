@@ -15,6 +15,7 @@
 |  11        |       Tree algs      |  Tree algs                    | Russian       | [My Notebook](https://colab.research.google.com/drive/1nGWOl7mcvyNc2duhIEtfI4klqgVneu1D)
 |  12        |       Сash       |   Cash algs                 | Russian       | [My Notebook](https://colab.research.google.com/drive/1iZ4x8iVOluz_0jJ9bN2f0OHsPGfB5XT7#scrollTo=vzKVsAglkXnd)
 |  13        |       Arrays      |   Arrays                | Russian       | [My Notebook](https://colab.research.google.com/drive/1zTyMh3ZpCddUtjaqQCaMd6P8UKC0frEE#scrollTo=UYZvg8_TPRsG)
+|  14        |       Linked List      |   Linked List                | Russian       | [My Notebook](https://colab.research.google.com/drive/1YaDBwFj2kJszdXbgOamamZQLcLNggn7z#scrollTo=ArjAxEfW7bT-)
 
 
 
