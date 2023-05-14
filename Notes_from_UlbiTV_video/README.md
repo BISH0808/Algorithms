@@ -17,6 +17,7 @@
 |  13        |       Arrays      |   Arrays                | Russian       | [My Notebook](https://colab.research.google.com/drive/1zTyMh3ZpCddUtjaqQCaMd6P8UKC0frEE#scrollTo=UYZvg8_TPRsG)
 |  14        |       Linked List      |   Linked List                | Russian       | [My Notebook](https://colab.research.google.com/drive/1YaDBwFj2kJszdXbgOamamZQLcLNggn7z#scrollTo=ArjAxEfW7bT-)
 |  15        |       Binary Tree    |   Binary Tree                 | Russian       | [My Notebook](https://colab.research.google.com/drive/1FU9cBTI1OimulXlG5vt8ywkM5_WsYyEb#scrollTo=IBPIanwnoHEO)
+|  16        |       Set and map   |   Set and map                 | Russian       | [My Notebook](https://colab.research.google.com/drive/1xSDwZ-TAUc-1tJdyt5f2wxY653ezPHR-#scrollTo=mc51jUoODl6h)
 
 
 
